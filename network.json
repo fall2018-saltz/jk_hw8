@@ -7,16 +7,6 @@
         {
             "ports": [
                 {
-                    "input": "raw_data",
-                    "type": "csv"
-                }
-            ],
-            "source": "raw_data.csv",
-            "target": "clean.R"
-        },
-        {
-            "ports": [
-                {
                     "output": "clean_data",
                     "type": "csv"
                 }
@@ -27,15 +17,12 @@
     ],
     "nodes": [
         {
-            "name": "raw_data.csv"
-        },
-        {
             "name": "clean.R"
         },
         {
             "name": "data.csv"
         }
     ],
-    "updated_at": "2018-10-18 15:11:05",
+    "updated_at": "2018-10-18 15:12:19",
     "url": "https://github.com/fall2018-saltz/jk_hw8"
 }
