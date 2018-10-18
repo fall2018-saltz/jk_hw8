@@ -1,6 +1,5 @@
 
-library(jsonlite)
-library(dplyr)
+library(RJSONIO)
 #Step A: Load the data
 
 #Reading the JSON data into json variable
