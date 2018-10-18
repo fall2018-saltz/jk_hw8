@@ -1,6 +1,6 @@
 
 library(jsonlite)
-
+library(dplyr)
 #Step A: Load the data
 
 #Reading the JSON data into json variable
