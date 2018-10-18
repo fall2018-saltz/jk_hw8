@@ -1,5 +1,5 @@
 
-library(RJSON)
+library(rjson)
 #Step A: Load the data
 
 #Reading the JSON data into json variable
