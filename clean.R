@@ -1,5 +1,5 @@
 
-library(JSONIO)
+library(RJSON)
 #Step A: Load the data
 
 #Reading the JSON data into json variable
