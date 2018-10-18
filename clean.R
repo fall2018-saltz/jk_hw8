@@ -1,6 +1,5 @@
 
 library(jsonlite)
-library(dplyr)
 
 #Step A: Load the data
 
