@@ -17,12 +17,17 @@
     ],
     "nodes": [
         {
-            "name": "clean.R"
+            "assigned_to": "jkachhadia",
+            "name": "clean.R",
+            "task_status": "in progress"
         },
         {
             "name": "data.csv"
+        },
+        {
+            "name": "text8433.txt"
         }
     ],
-    "updated_at": "2018-10-18 15:12:19",
+    "updated_at": "2018-10-18 15:17:06",
     "url": "https://github.com/fall2018-saltz/jk_hw8"
 }
